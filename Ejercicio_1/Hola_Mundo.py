@@ -1,2 +1,4 @@
-Saludo = "Hola Mundo!"
-print(Saludo)
+import os
+import sys
+
+os.system('WINWORD.EXE')
